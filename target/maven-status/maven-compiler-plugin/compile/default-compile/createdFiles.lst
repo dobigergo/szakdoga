@@ -1,0 +1,14 @@
+main\controller\HomeController.class
+main\repository\TranslationRepository.class
+main\Service\TranslationService.class
+main\domain\Topic.class
+main\domain\TranslationFK.class
+main\domain\Language.class
+main\domain\Translation.class
+main\repository\TopicRepository.class
+main\Main.class
+main\domain\TranslationBack.class
+main\repository\WordRepository.class
+main\repository\LanguageRepository.class
+main\Service\TopicService.class
+main\domain\Word.class
