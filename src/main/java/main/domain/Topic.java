@@ -10,8 +10,6 @@ public class Topic {
 
     String language;
 
-    Set<Translation> translationSet;
-
     private Topic() {
     }
 

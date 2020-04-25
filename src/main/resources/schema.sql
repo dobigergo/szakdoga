@@ -3,6 +3,8 @@ drop table word;
 drop table topic;
 drop table language;
 
+
+
 CREATE TABLE language(
     language_id BIGSERIAL NOT NULL Primary Key,
     name VARCHAR(15) NOT NULL UNIQUE

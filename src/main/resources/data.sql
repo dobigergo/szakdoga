@@ -1,6 +1,6 @@
 insert into language(name) values('hun');
 insert into language(name) values('eng');
-insert into topic(name, language_id) values('culture',2);
+insert into topic(name, language_id) values('food',2);
 insert into word(word_name, language_id) values('elevenses',2);
 insert into word(word_name, language_id) values('tízórai',1);
 insert into word(word_name, language_id) values('supper',2);

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="876129a6-20b3-47b1-8589-d7af5cb82e48" name="Default Changelist" comment="" />
+    <list default="true" id="876129a6-20b3-47b1-8589-d7af5cb82e48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/domain/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/domain/Topic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1XhTs93HnGXPgNgnVsQgPLzxOkU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,7 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Spring_Boot_JPA_RestController-master/Spring_Boot_JPA_RestController-master" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/spotify/spotify" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -64,34 +73,34 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="385" y="359" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1474.864@0.0.1474.864" timestamp="1582989076188" />
-    <state x="518" y="188" key="FileChooserDialogImpl" timestamp="1582982138866">
+    <state x="518" y="188" key="FileChooserDialogImpl" timestamp="1585062820708">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="518" y="188" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1582982138866" />
-    <state width="1431" height="229" key="GridCell.Tab.0.bottom" timestamp="1583756555022">
+    <state x="518" y="188" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1585062820708" />
+    <state width="1431" height="229" key="GridCell.Tab.0.bottom" timestamp="1583768346402">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="229" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1583756555022" />
-    <state width="1431" height="229" key="GridCell.Tab.0.center" timestamp="1583756555021">
+    <state width="1431" height="229" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1583768346402" />
+    <state width="1431" height="229" key="GridCell.Tab.0.center" timestamp="1583768346402">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="229" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1583756555021" />
-    <state width="1431" height="229" key="GridCell.Tab.0.left" timestamp="1583756555021">
+    <state width="1431" height="229" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1583768346402" />
+    <state width="1431" height="229" key="GridCell.Tab.0.left" timestamp="1583768346402">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="229" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1583756555021" />
-    <state width="1431" height="229" key="GridCell.Tab.0.right" timestamp="1583756555022">
+    <state width="1431" height="229" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1583768346402" />
+    <state width="1431" height="229" key="GridCell.Tab.0.right" timestamp="1583768346402">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="229" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1583756555022" />
+    <state width="1431" height="229" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1583768346402" />
     <state x="218" y="8" key="SettingsEditor" timestamp="1582562138824">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="218" y="8" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1582562138824" />
-    <state x="287" y="172" width="487" height="280" key="com.intellij.ide.util.TipDialog" timestamp="1583753288777">
+    <state x="287" y="172" width="487" height="280" key="com.intellij.ide.util.TipDialog" timestamp="1587802188085">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="287" y="172" width="487" height="280" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1583753288777" />
+    <state x="287" y="172" width="487" height="280" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1587802188085" />
     <state x="389" y="93" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583175915221">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
